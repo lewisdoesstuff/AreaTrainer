@@ -1,0 +1,19 @@
+C:\Users\13bootwi\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+E:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
