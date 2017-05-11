@@ -17,3 +17,21 @@ F:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.
 F:\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
 F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
 F:\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+E:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\AreaTrainer.exe.config
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\AreaTrainer.exe
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\AreaTrainer.pdb
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\AreaTrainer.xml
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.Resources.resources
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.exe
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.xml
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.pdb
