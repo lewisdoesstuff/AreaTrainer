@@ -35,3 +35,5 @@ F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj
 F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.exe
 F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.xml
 F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\obj\Debug\AreaTrainer.pdb
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\AreaTrainer.exe.CodeAnalysisLog.xml
+F:\Press F.7z to pay respects\VB.Net\ConsoleApplication1\ConsoleApplication1\bin\Debug\AreaTrainer.exe.lastcodeanalysissucceeded
