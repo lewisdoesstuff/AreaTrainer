@@ -105,8 +105,16 @@ Module Module1
         ElseIf temp = 2 Then
             Register() ' simple menu
         ElseIf temp = 3 Then
+            Dim file As String
             If loggedin Then
-                My.Computer.FileSystem.WriteAllText("login\Users\" & name & "\game.csv", score, False) ' writes score to file
+                Dim filepath As String = "login\Users\" & name & "\game.csv"
+                If Not System.IO.File.Exists(filepath) Then
+                    System.IO.File.Create(filepath).Dispose()
+                End If
+                file = My.Computer.FileSystem.ReadAllText("login\Users\" & name & "\game.csv")   ' writes score to file
+                file = file & score & ","
+                My.Computer.FileSystem.WriteAllText("login\Users\" & name & "\game.csv", file, False) ' writes score to file
+
                 Console.WriteLine("Your score for this session was" & score)
                 Environment.Exit(0.1)
             Else
